@@ -1,4 +1,4 @@
-##### 🚀 Fresher Frontend developer 🌐 | BCA Graduate 🎓 |
+## 🚀 Fresher Frontend developer 🌐 | BCA Graduate 🎓 |
 Javascript Enthusiast 💻 | Open to Exciting Opportunities ✨
 
 ## Hello there! 👋 I'm Shubham kumar vishwakarma,
