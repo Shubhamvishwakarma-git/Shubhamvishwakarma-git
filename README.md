@@ -18,9 +18,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvishw
 <img align="left"  width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamvishwakarma-git&theme=react-dark&color=#0000&radius=5)](https://github.com/kritirajmaharana/github-readme-activity-graph)"
 />
-<img  align="left"
-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
 
 <img align="left"
 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
