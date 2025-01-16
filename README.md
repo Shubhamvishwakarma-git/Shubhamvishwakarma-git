@@ -1,31 +1,65 @@
-## 🚀 Fresher Frontend developer 🌐 | BCA Graduate 🎓 |
-Javascript Enthusiast 💻 | Open to Exciting Opportunities ✨
+# 🚀 Frontend Developer 🌐 | BCA Graduate 🎓
 
-## Hello there! 👋 I'm Shubham kumar vishwakarma,
-#### Passionate and detail-oriented front-end developer with a strong foundation in ReactJs, Html, Css, and JavaScript. 
-Eager to contribute my skills to innovative projects in the IT service field, aiming to foster both personal and company growth 
-through dedication and expertise. Seeking a challenging position to apply my knowledge and actively contribute to your organization's success.
+### JavaScript Enthusiast 💻 | Open to Exciting Opportunities ✨
 
+---
 
+## About Me
 
-<img align="left" width="47%"
-src="https://github-readme-stats.vercel.app/api?username=Shubhamvishwakarma-git&show_icons=true&theme=radical&height=180px&width=50%"
-/>
+Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Developer** with 1 year of experience building dynamic and responsive web applications. My tech stack includes:
 
-<img align="right" width="42%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvishwakarma-git&layout=compact&height=180px&width=50%"
-/>
-<img align="left"  width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamvishwakarma-git&theme=react-dark&color=#0000&radius=5)](https://github.com/kritirajmaharana/github-readme-activity-graph)"
-/>
+- **ReactJS** ![React](https://img.icons8.com/office/40/000000/react.png)
+- **NodeJS** ![NodeJS](https://img.icons8.com/color/40/000000/nodejs.png)
+- **ExpressJS** ![ExpressJS](https://img.icons8.com/ios-filled/40/000000/express-js.png)
+- **JavaScript** ![JavaScript](https://img.icons8.com/color/40/000000/javascript--v1.png)
+- **HTML** ![HTML5](https://img.icons8.com/color/40/000000/html-5--v1.png)
+- **CSS** ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
+- **Bootstrap** ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
+- **TailwindCSS** ![TailwindCSS](https://img.icons8.com/color/40/000000/tailwind-css.png)
+- **MongoDB** ![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png)
 
-<img align="left"
-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left"
-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left"
-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left"
-src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-<img align="left"
-src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+### Key Skills:
+
+- Designing user-friendly interfaces.
+- Integrating RESTful APIs seamlessly.
+- Optimizing application performance.
+
+## GitHub Stats
+
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Shubhamvishwakarma-git&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvishwakarma-git&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamvishwakarma-git&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## Technology Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
+
+---
+
+## Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkv/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamvishwakarma-git)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
