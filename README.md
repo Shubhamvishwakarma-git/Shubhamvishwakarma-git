@@ -10,19 +10,24 @@ Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Devel
 
 - **ReactJS** ![React](https://img.icons8.com/office/40/000000/react.png)
 - **NodeJS** ![NodeJS](https://img.icons8.com/color/40/000000/nodejs.png)
-- **ExpressJS** ![ExpressJS](https://img.icons8.com/ios-filled/40/000000/express-js.png)
+- **ExpressJS** ![ExpressJS](https://img.icons8.com/external-those-icons-flat-those-icons/40/000000/external-express-js-programming-and-development-those-icons-flat-those-icons.png)
 - **JavaScript** ![JavaScript](https://img.icons8.com/color/40/000000/javascript--v1.png)
 - **HTML** ![HTML5](https://img.icons8.com/color/40/000000/html-5--v1.png)
 - **CSS** ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
 - **Bootstrap** ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
-- **TailwindCSS** ![TailwindCSS](https://img.icons8.com/color/40/000000/tailwind-css.png)
+- **TailwindCSS** ![TailwindCSS](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/000000/external-tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs-logo-bold-tal-revivo.png)
 - **MongoDB** ![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png)
 
 ### Key Skills:
-
 - Designing user-friendly interfaces.
 - Integrating RESTful APIs seamlessly.
 - Optimizing application performance.
+
+**Achievements:**
+- Increased project efficiency by **25%**.
+- Reduced issue resolution times by **20%**.
+
+---
 
 ## GitHub Stats
 
@@ -43,7 +48,7 @@ Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Devel
 
 ## Technology Stack
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -58,8 +63,9 @@ Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Devel
 
 ## Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkv/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkumarvishwakarma)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamvishwakarma-git)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
+
