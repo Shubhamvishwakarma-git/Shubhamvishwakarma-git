@@ -8,22 +8,24 @@
 
 Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Developer** with 1 year of experience building dynamic and responsive web applications. My tech stack includes:
 
-- **ReactJS** ![React](https://img.icons8.com/office/40/000000/react.png)
-- **NodeJS** ![NodeJS](https://img.icons8.com/color/40/000000/nodejs.png)
-- **ExpressJS** ![ExpressJS](https://img.icons8.com/external-those-icons-flat-those-icons/40/000000/external-express-js-programming-and-development-those-icons-flat-those-icons.png)
-- **JavaScript** ![JavaScript](https://img.icons8.com/color/40/000000/javascript--v1.png)
-- **HTML** ![HTML5](https://img.icons8.com/color/40/000000/html-5--v1.png)
-- **CSS** ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
-- **Bootstrap** ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
-- **TailwindCSS** ![TailwindCSS](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/000000/external-tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs-logo-bold-tal-revivo.png)
-- **MongoDB** ![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png)
+- **ReactJS** 
+- **NodeJS** 
+- **ExpressJS** 
+- **JavaScript** 
+- **HTML** 
+- **CSS** 
+- **Bootstrap** 
+- **TailwindCSS** 
+- **MongoDB** 
 
 ### Key Skills:
+
 - Designing user-friendly interfaces.
 - Integrating RESTful APIs seamlessly.
 - Optimizing application performance.
 
 **Achievements:**
+
 - Increased project efficiency by **25%**.
 - Reduced issue resolution times by **20%**.
 
@@ -48,16 +50,15 @@ Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Devel
 
 ## Technology Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+     <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> 
+     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" /> </div>
 
 ---
 
@@ -68,4 +69,3 @@ Hi there! 👋 I'm **Shubham Kumar Vishwakarma**, a passionate **Front-End Devel
 - [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
-
